@@ -1,6 +1,6 @@
 # Hi, I'm Anuj 👋  
 
-🎓 Final-year B.Tech ECE student | 💻 Aspiring Software Engineer | 🌐 Full-Stack & Cloud Enthusiast  
+🎓 Final-year B.Tech student | 💻 Aspiring Software Engineer | 🌐 Full-Stack Enthusiast  
 
 ---
 
@@ -8,7 +8,7 @@
 - 🌱 Currently learning **MERN stack & Cloud fundamentals**  
 - 🔭 Working on **Vaultly** and other side projects  
 - 📚 Love building projects from **first principles**  
-- 🎯 Goal: Backend / Full-Stack Engineer role in India  
+- 🎯 Goal: Backend / Full-Stack Engineer role  
 
 ---
 
@@ -31,7 +31,6 @@
 - [**CareerCraft**](https://github.com/anujb1212/careercraft) – ATS-Optimized Resume Analyzer (Streamlit)  
 - [**BlogBox**](https://github.com/anujb1212/blogbox) – Full-stack blogging platform  
 
-*(Pin these repos to show them on your profile)*
 
 ---
 
@@ -43,7 +42,7 @@
 ---
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/anuj-bajpai)  
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/anuj-bajpai-53b831255/)  
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:anujbajpai.1212@gmail.com)
 
 ---
