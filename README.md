@@ -27,7 +27,7 @@
 ---
 
 ## 📌 Featured Projects
-- [**Vaultly**](https://github.com/anujb1212/vaultly) – Monorepo app with authentication & blogging features  
+- [**Vaultly**](https://github.com/anujb1212/vaultly) – Monorepo wallet app   
 - [**CareerCraft**](https://github.com/anujb1212/careercraft) – ATS-Optimized Resume Analyzer (Streamlit)  
 - [**BlogBox**](https://github.com/anujb1212/blogbox) – Full-stack blogging platform  
 
